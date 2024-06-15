@@ -9,5 +9,5 @@ CreateThread(function()
 end)
 
 exports['rsg-core']:AddItem("test_book", {
-    name = "test_book", label = "كتاب", weight = 500, type = 'item', image = 'book.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = ""
+    name = "test_book", label = "Book", weight = 500, type = 'item', image = 'book.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = ""
 })
