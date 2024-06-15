@@ -4,8 +4,11 @@
 
 
 Add this in the config side when you want to add a new book, and make sure the name is consistent with the item.
+
 When you add a picture to the book, make sure to adjust the size to match the size of the picture.
+
 Normal size = width = 600 | height = 800
+
 Add the link in (url)
 
 test_book = {
