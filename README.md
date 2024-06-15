@@ -1,5 +1,7 @@
 # Basic book script for RSG RedM
 
+![2](https://github.com/HmdanSA/han-book/assets/165506655/ad1e2e88-25fc-4f6b-b245-b5fc1b26311b)
+
 
 Add this in the config side when you want to add a new book, and make sure the name is consistent with the item.
 When you add a picture to the book, make sure to adjust the size to match the size of the picture.
