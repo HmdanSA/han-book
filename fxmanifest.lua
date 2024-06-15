@@ -21,7 +21,6 @@ files {
     "html/*.html",
     "html/*.css",
     "html/*.js",
-    'html/books/**/*.png',
 }
 
 escrow_ignore {
